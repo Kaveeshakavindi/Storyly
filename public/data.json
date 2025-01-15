@@ -1,0 +1,24 @@
+[
+  { 
+    "id": "1", 
+    "img": "/1.jpg",
+    "title": "The Last Symphony" ,
+    "author": "Eleanor Morrow",
+    "story" : "In a world where music had been long forgotten, Maestro Adrien unearthed the ancient scores of Beethoven's Ninth Symphony. As the Earth's final days loomed under the shadow of a dying sun, Adrien gathered the remnants of humanity for one last performance. As violins wept and choirs ascended to celestial heights, the audience – a patchwork of scientists, laborers, and dreamers – found unity in the face of extinction. The crescendo mirrored the sun's last fiery gasp, leaving silence more profound than the music. Humanity’s swan song reverberated through the cosmos, carrying the echo of hope to the void."
+  },
+  { 
+    "id": "2", 
+    "img": "/2.jpg",
+    "title": "The Butterfly Effect",
+    "author": "Isaac Draven",
+    "story": "Dr. Helena Cross activated her Temporal Cascade, a machine capable of rewriting history. She intended to stop a minor injustice in 1865—a butterfly poacher in the Amazon. Returning to her lab, she found the world unrecognizable: sky-cities floated above wastelands where technology thrived but humanity had crumbled. The small change in the past had spiraled into chaos. As her breath caught in the thin, metallic air, she realized the poacher’s descendants had discovered the secret to immortality—a secret lost in this dystopia. The machine hummed again. She hesitated. How many more worlds would she ruin with another leap?"
+  },
+  { 
+    "id": "3", 
+    "img": "/3.jpg",
+    "title": "Whispers Beneath the Waves",
+    "author": "Marisol Vega",
+    "story": "When marine biologist Caleb Torres descended into the Mariana Trench, he expected darkness and pressure, not a city of bioluminescent towers stretching toward an unseen surface. Strange, translucent beings with elongated limbs and eyes like galaxies beckoned him forward. They communicated without words, their thoughts weaving into his like silk threads. They offered him a glimpse of Earth’s hidden history—millennia when they ruled before humans emerged. But their message carried a warning: “The balance has shifted. We will rise again.” As Caleb ascended, his trembling hand gripped a crystal artifact they’d given him, unsure if it was a gift or a key."
+  }
+]
+
